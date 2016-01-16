@@ -1,13 +1,13 @@
 Game Jam前に決まったことを書く場所
 =================================================
 
-* enchat.jsでなんかゲーム作る
+* enchant.jsでなんかゲーム作る
 * gitHub 使う
 * slack 使う
 
 Jamまでのタスク:
 
-* enchat.js知らない人はdotinstallやる
+* enchant.js知らない人はdotinstallやる
 
 Jamでの時間のシフトはこんな感じ(変更はありえる):
 
