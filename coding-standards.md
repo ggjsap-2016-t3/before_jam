@@ -33,7 +33,7 @@ lowerCamelのみ使用可.
 
 ### インスタンス名
 
-lowerCamerlのみ使用可.
+lowerCamelのみ使用可.
 
 具体例: beetle, statusOfBeetle
 
